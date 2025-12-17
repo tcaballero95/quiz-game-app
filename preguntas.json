@@ -99,6 +99,170 @@
       "pregunta": "¿Cuál es la unidad básica de la temperatura en el Sistema Internacional?",
       "alternativas": ["Celsius", "Fahrenheit", "Kelvin", "Rankine"],
       "respuesta_correcta": 3
+    },
+    "id": 16,
+      "pregunta": "¿Cuál es el país con mayor población del mundo?",
+      "alternativas": [
+        "India",
+        "China",
+        "Estados Unidos",
+        "Rusia"
+      ],
+      "respuesta_correcta": 1
+    },
+    {
+      "id": 17,
+      "pregunta": "¿Qué órgano del cuerpo humano bombea la sangre?",
+      "alternativas": [
+        "Pulmón",
+        "Cerebro",
+        "Corazón",
+        "Hígado"
+      ],
+      "respuesta_correcta": 3
+    },
+    {
+      "id": 18,
+      "pregunta": "¿Cuál es el metal más abundante en la corteza terrestre?",
+      "alternativas": [
+        "Hierro",
+        "Aluminio",
+        "Cobre",
+        "Zinc"
+      ],
+      "respuesta_correcta": 2
+    },
+    {
+      "id": 19,
+      "pregunta": "¿En qué país se originaron los Juegos Olímpicos?",
+      "alternativas": [
+        "Italia",
+        "Grecia",
+        "Francia",
+        "Egipto"
+      ],
+      "respuesta_correcta": 2
+    },
+    {
+      "id": 20,
+      "pregunta": "¿Cuál es el animal terrestre más rápido?",
+      "alternativas": [
+        "León",
+        "Caballo",
+        "Guepardo",
+        "Antílope"
+      ],
+      "respuesta_correcta": 3
+    },
+    {
+      "id": 21,
+      "pregunta": "¿Qué planeta es conocido como el planeta rojo?",
+      "alternativas": [
+        "Venus",
+        "Marte",
+        "Júpiter",
+        "Mercurio"
+      ],
+      "respuesta_correcta": 2
+    },
+    {
+      "id": 22,
+      "pregunta": "¿Cuál es la capital de Australia?",
+      "alternativas": [
+        "Sídney",
+        "Melbourne",
+        "Brisbane",
+        "Canberra"
+      ],
+      "respuesta_correcta": 4
+    },
+    {
+      "id": 23,
+      "pregunta": "¿Qué tipo de energía proviene del Sol?",
+      "alternativas": [
+        "Eólica",
+        "Nuclear",
+        "Solar",
+        "Geotérmica"
+      ],
+      "respuesta_correcta": 3
+    },
+    {
+      "id": 24,
+      "pregunta": "¿Cuántos minutos tiene una hora?",
+      "alternativas": [
+        "50",
+        "60",
+        "70",
+        "100"
+      ],
+      "respuesta_correcta": 2
+    },
+    {
+      "id": 25,
+      "pregunta": "¿Quién fue el primer presidente de Chile?",
+      "alternativas": [
+        "Bernardo O'Higgins",
+        "Manuel Bulnes",
+        "José Miguel Carrera",
+        "Ramón Freire"
+      ],
+      "respuesta_correcta": 1
+    },
+    {
+      "id": 26,
+      "pregunta": "¿Qué continente tiene más países?",
+      "alternativas": [
+        "Asia",
+        "África",
+        "Europa",
+        "América"
+      ],
+      "respuesta_correcta": 2
+    },
+    {
+      "id": 27,
+      "pregunta": "¿Cuál es el gas responsable principalmente del efecto invernadero natural?",
+      "alternativas": [
+        "Oxígeno",
+        "Nitrógeno",
+        "Dióxido de carbono",
+        "Vapor de agua"
+      ],
+      "respuesta_correcta": 4
+    },
+    {
+      "id": 28,
+      "pregunta": "¿Qué instrumento se utiliza para medir la velocidad del viento?",
+      "alternativas": [
+        "Barómetro",
+        "Anemómetro",
+        "Pluviómetro",
+        "Termómetro"
+      ],
+      "respuesta_correcta": 2
+    },
+    {
+      "id": 29,
+      "pregunta": "¿Cuántos huesos tiene aproximadamente el cuerpo humano adulto?",
+      "alternativas": [
+        "186",
+        "206",
+        "226",
+        "246"
+      ],
+      "respuesta_correcta": 2
+    },
+    {
+      "id": 30,
+      "pregunta": "¿Qué país tiene la forma geográfica más larga y angosta?",
+      "alternativas": [
+        "Noruega",
+        "Italia",
+        "Chile",
+        "Japón"
+      ],
+      "respuesta_correcta": 3
     }
   ]
 }
