@@ -1,0 +1,104 @@
+{
+  "preguntas": [
+    {
+      "id": 1,
+      "pregunta": "¿Cuál es el planeta más grande del sistema solar?",
+      "alternativas": ["Tierra", "Marte", "Júpiter", "Saturno"],
+      "respuesta_correcta": 3
+    },
+    {
+      "id": 2,
+      "pregunta": "¿En qué continente se encuentra Egipto?",
+      "alternativas": ["Asia", "África", "Europa", "América"],
+      "respuesta_correcta": 2
+    },
+    {
+      "id": 3,
+      "pregunta": "¿Cuál es el elemento químico con símbolo O?",
+      "alternativas": ["Oro", "Osmio", "Oxígeno", "Plata"],
+      "respuesta_correcta": 3
+    },
+    {
+      "id": 4,
+      "pregunta": "¿Quién escribió 'Cien años de soledad'?",
+      "alternativas": [
+        "Mario Vargas Llosa",
+        "Pablo Neruda",
+        "Julio Cortázar",
+        "Gabriel García Márquez"
+      ],
+      "respuesta_correcta": 4
+    },
+    {
+      "id": 5,
+      "pregunta": "¿Cuál es el océano más grande del mundo?",
+      "alternativas": ["Atlántico", "Índico", "Pacífico", "Ártico"],
+      "respuesta_correcta": 3
+    },
+    {
+      "id": 6,
+      "pregunta": "¿Cuántos lados tiene un hexágono?",
+      "alternativas": ["Cinco", "Seis", "Siete", "Ocho"],
+      "respuesta_correcta": 2
+    },
+    {
+      "id": 7,
+      "pregunta": "¿Cuál es la capital de Canadá?",
+      "alternativas": ["Toronto", "Vancouver", "Montreal", "Ottawa"],
+      "respuesta_correcta": 4
+    },
+    {
+      "id": 8,
+      "pregunta": "¿En qué año llegó el ser humano a la Luna?",
+      "alternativas": ["1965", "1969", "1972", "1980"],
+      "respuesta_correcta": 2
+    },
+    {
+      "id": 9,
+      "pregunta": "¿Cuál es el idioma más hablado del mundo por número de hablantes nativos?",
+      "alternativas": ["Inglés", "Español", "Mandarín", "Árabe"],
+      "respuesta_correcta": 3
+    },
+    {
+      "id": 10,
+      "pregunta": "¿Qué instrumento mide la presión atmosférica?",
+      "alternativas": ["Termómetro", "Higrómetro", "Barómetro", "Anemómetro"],
+      "respuesta_correcta": 3
+    },
+    {
+      "id": 11,
+      "pregunta": "¿Cuál es el río más largo del mundo?",
+      "alternativas": ["Amazonas", "Nilo", "Yangtsé", "Misisipi"],
+      "respuesta_correcta": 1
+    },
+    {
+      "id": 12,
+      "pregunta": "¿Qué gas es el más abundante en la atmósfera terrestre?",
+      "alternativas": ["Oxígeno", "Dióxido de carbono", "Nitrógeno", "Argón"],
+      "respuesta_correcta": 3
+    },
+    {
+      "id": 13,
+      "pregunta": "¿Quién pintó la Mona Lisa?",
+      "alternativas": [
+        "Miguel Ángel",
+        "Leonardo da Vinci",
+        "Rafael",
+        "Donatello"
+      ],
+      "respuesta_correcta": 2
+    },
+    {
+      "id": 14,
+      "pregunta": "¿Cuántos continentes existen?",
+      "alternativas": ["Cinco", "Seis", "Siete", "Ocho"],
+      "respuesta_correcta": 3
+    },
+    {
+      "id": 15,
+      "pregunta": "¿Cuál es la unidad básica de la temperatura en el Sistema Internacional?",
+      "alternativas": ["Celsius", "Fahrenheit", "Kelvin", "Rankine"],
+      "respuesta_correcta": 3
+    }
+  ]
+}
