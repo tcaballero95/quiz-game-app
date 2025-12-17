@@ -100,13 +100,14 @@
       "alternativas": ["Celsius", "Fahrenheit", "Kelvin", "Rankine"],
       "respuesta_correcta": 3
     },
-    "id": 16,
+    {
+      "id": 16,
       "pregunta": "¿Cuál es el país con mayor población del mundo?",
       "alternativas": [
-        "India",
-        "China",
-        "Estados Unidos",
-        "Rusia"
+          "India",
+          "China",
+          "Estados Unidos",
+          "Rusia"
       ],
       "respuesta_correcta": 1
     },
