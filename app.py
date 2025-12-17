@@ -139,7 +139,7 @@ with tabs[1]:
 		else:
 			st.info("No hay participantes aún.")
 
-	with st.expander("Ver todos los resultados", expanded=False):
+	with st.expander("Otras Opciones", expanded=False):
 		if st.button("Borrar todas las respuestas"):
 			with open(RESPUESTAS_FILE, "w", encoding="utf-8") as f:
 				f.write("[]")
